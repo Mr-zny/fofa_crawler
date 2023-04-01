@@ -33,8 +33,5 @@ def check(target_url):
         print(e)
 
 
-    # sleep(10)
-    # print('验证'+target_url)
-    #
-    # return True
+  
 
