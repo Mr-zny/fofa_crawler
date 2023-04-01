@@ -1,4 +1,4 @@
-# FOFA数据采集工具 FOFA-fofa_crawler
+# FOFA数据采集工具 fofa_crawler
 
 ## 一、简介
 `fofa_crawler` 这个工具基于python实现，使用爬虫获取数据，有爬虫模式和api模式两种模式，对于有api使用权限的用户可以使用api模式这会更加高效，对于没有FOFA API使用权限的用户可以使用爬虫模式，使用爬虫模式需要提供用户自己的cookie。还可以对FOFA收集的url进行POC验证，并将采集的数据保存为文件。
